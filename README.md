@@ -4,7 +4,11 @@ A project written in Python to learn more about the components of a CNN. This is
 ## Dependecies
 
 Keras
+
 Tensorflow 
+
 Scikit-learn
+
 Matplotlib
+
 Pandas
